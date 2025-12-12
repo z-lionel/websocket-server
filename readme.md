@@ -1,4 +1,4 @@
 ```
-A Windows-based WebSocket server tool for local testing and debugging.
+Windows and Linux graphical tools for starting WebSocket services, used for local testing and debugging
 
 ```
